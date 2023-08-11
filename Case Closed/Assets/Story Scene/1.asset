@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907d578732209e34ba2cf035009c8507, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  sentences:
+  - speaker: {fileID: 11400000, guid: f6c9d0438b0e22d4c9c45ea18455e517, type: 2}
+    text: The victim is a man.
+  - speaker: {fileID: 11400000, guid: f6c9d0438b0e22d4c9c45ea18455e517, type: 2}
+    text: Cause of death was a stab wound to the back.
+  - speaker: {fileID: 11400000, guid: f6c9d0438b0e22d4c9c45ea18455e517, type: 2}
+    text: The crime scene is the room of female singer Okino Yoko.
+  - speaker: {fileID: 11400000, guid: f6c9d0438b0e22d4c9c45ea18455e517, type: 2}
+    text: The first people on the scene included...
+  - speaker: {fileID: 11400000, guid: f6c9d0438b0e22d4c9c45ea18455e517, type: 2}
+    text: The owner of the room, female singer Okino Yoko.
+  - speaker: {fileID: 11400000, guid: f6c9d0438b0e22d4c9c45ea18455e517, type: 2}
+    text: Yoko's manager, Yamagishi.
+  - speaker: {fileID: 11400000, guid: f6c9d0438b0e22d4c9c45ea18455e517, type: 2}
+    text: It was quite hot at the scene and showed signs of being flipped up like
+      a murder and robbery.
+  - speaker: {fileID: 11400000, guid: 9fbad076f3511ca40bbb9c1ac1b5f178, type: 2}
+    text: Robbery huh? I don't think this is just a robbery murder case.
+  - speaker: {fileID: 11400000, guid: 9fbad076f3511ca40bbb9c1ac1b5f178, type: 2}
+    text: But what is the anomaly here?
+  nextScene: {fileID: 0}

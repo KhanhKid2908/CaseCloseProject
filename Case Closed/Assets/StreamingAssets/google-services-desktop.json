@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "556677355199",
+    "firebase_url": "https://caseclosed-3dc17-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "caseclosed-3dc17",
+    "storage_bucket": "caseclosed-3dc17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556677355199:android:6c749ac04feddfc361180a",
+        "android_client_info": {
+          "package_name": "com.khanhgia.caseclose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556677355199-2vgjs6q1mjobpkid6l4te1i8gckl73qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJsvFZ0tVNZBZetEPuLXa7wqpJ8xXAwoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556677355199-2vgjs6q1mjobpkid6l4te1i8gckl73qu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556677355199-6omt1la2rutup11fral1f61icbpfadvo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.khanhgia.caseclose"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
